@@ -1,5 +1,21 @@
 @import "~bootstrap/scss/bootstrap.scss";
 
+
+.conteiner{
+    text-align: center;
+    background-color: #101010;
+}
+
+.conteiner div{
+    display: inline-block;
+    font-size: 60px;
+    line-height: 60px ;
+    background-color: #101010;
+    color: white;
+    padding: 10px ;
+    margin: 5px;
+}
+
 /* 
 
     You can write your own styles here...
